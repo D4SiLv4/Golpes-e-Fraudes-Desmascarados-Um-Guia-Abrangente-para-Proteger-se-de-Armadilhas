@@ -54,3 +54,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 Este guia é um recurso essencial para qualquer pessoa interessada em aprender sobre os métodos de fraudes modernas e como se proteger contra eles. Adote as práticas recomendadas aqui descritas para manter sua segurança pessoal e financeira.
+
+
+link: https://drive.google.com/file/d/1ksXVVNRic2Q-u1xos3Vvlzly8aC6UqwV/view?usp=sharing
